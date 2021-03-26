@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Javiercuba) ![status](https://img.shields.io/badge/status-up-brightgreen)
 
-![me](./teste.png)
+![me](./inicio.gif)
 </br>
 </br>
 
